@@ -1,0 +1,22 @@
+{
+	"order": {
+		"id": 5,
+		"firstName": "йф",
+		"lastName": "фй",
+		"address": "Рязанская обл, Рыбновский р-н,",
+		"metroStation": "3",
+		"phone": "+79009105275",
+		"rentTime": 2,
+		"deliveryDate": "2023-01-27T13:43:38.796Z",
+		"track": 53821,
+		"color": ["BLACK"],
+		"comment": "привезти",
+		"cancelled": false,
+		"finished": false,
+		"inDelivery": false,
+		"createdAt": "2023-01-27T13:41:05.471Z",
+		"updatedAt": "2023-01-27T13:43:38.796Z",
+		"courierFirstName": "sasha",
+		"status": 3
+	}
+}
